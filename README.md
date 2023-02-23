@@ -1,1 +1,2 @@
-# inventoryapp
+# Inventory App
+## Envanter Yönetim Uygulaması
