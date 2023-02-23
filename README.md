@@ -1,10 +1,10 @@
 # Inventory App
 ## Envanter Yönetim Uygulaması
 
-##Kullanılan Teknolojiler
+Kullanılan Teknolojiler
 Java, Spring Boot, MySql
 
-##Açıklamalar
+Açıklamalar
 Product
 Ürün kayıt etme, ekleme, çıkarma, silme ve düzenleme işlemleri yapılabilir.
 Tüm işlemler sırasında History tablosunda log kaydı tutulur.
